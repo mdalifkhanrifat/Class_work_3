@@ -1,0 +1,22 @@
+.head_section{
+    background: url(../img/banner.jpg);
+    padding: 50px 0;
+    text-align: center;
+}
+.footer_section{
+    text-align: center;
+}
+.img-control{
+    height: 300px;
+    width: 100%;
+}
+.form_style{
+    width: 50%;
+    left: 25%;
+    padding: 20px;
+    border: 10px;
+    border-color: black;
+    background: rgb(237, 231, 231);
+    border-radius: 10px;
+    
+}
